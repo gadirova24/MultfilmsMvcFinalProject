@@ -8160,22 +8160,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\countries\Yaponiya.png))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\studios\5f763499-8229-4f1c-ab60-02a5badf08ca-pro-monstrov.jpeg))">
-      <SourceType>Package</SourceType>
-      <SourceId>MultfilmsMvc</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/MultfilmsMvc</BasePath>
-      <RelativePath>assets/images/studios/5f763499-8229-4f1c-ab60-02a5badf08ca-pro-monstrov.jpeg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\studios\5f763499-8229-4f1c-ab60-02a5badf08ca-pro-monstrov.jpeg))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\studios\72bae79c-aaf7-4e1e-b93c-a3155b747a99 blueska.webp))">
       <SourceType>Package</SourceType>
       <SourceId>MultfilmsMvc</SourceId>
@@ -8191,22 +8175,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\studios\72bae79c-aaf7-4e1e-b93c-a3155b747a99 blueska.webp))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\studios\79b19823-351f-4100-aea3-ea9283f14ef8 pro-mashinki.jpeg))">
-      <SourceType>Package</SourceType>
-      <SourceId>MultfilmsMvc</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/MultfilmsMvc</BasePath>
-      <RelativePath>assets/images/studios/79b19823-351f-4100-aea3-ea9283f14ef8 pro-mashinki.jpeg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\studios\79b19823-351f-4100-aea3-ea9283f14ef8 pro-mashinki.jpeg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\images\studios\d96d8941-0801-48bc-8fd1-d048bfee4609 pro-mashinki.jpeg))">
       <SourceType>Package</SourceType>

@@ -2612,11 +2612,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nigar/Desktop/FinalProject/MultfilmsMvc/Service/Service.csproj",
+      "projectUniqueName": "/Users/nigar/Desktop/MultfilmsMvcFinalProject/MultfilmsMvc/Service/Service.csproj",
       "projectName": "Service",
-      "projectPath": "/Users/nigar/Desktop/FinalProject/MultfilmsMvc/Service/Service.csproj",
+      "projectPath": "/Users/nigar/Desktop/MultfilmsMvcFinalProject/MultfilmsMvc/Service/Service.csproj",
       "packagesPath": "/Users/nigar/.nuget/packages/",
-      "outputPath": "/Users/nigar/Desktop/FinalProject/MultfilmsMvc/Service/obj/",
+      "outputPath": "/Users/nigar/Desktop/MultfilmsMvcFinalProject/MultfilmsMvc/Service/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nigar/.nuget/NuGet/NuGet.Config"
@@ -2631,8 +2631,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/nigar/Desktop/FinalProject/MultfilmsMvc/Repository/Repository.csproj": {
-              "projectPath": "/Users/nigar/Desktop/FinalProject/MultfilmsMvc/Repository/Repository.csproj"
+            "/Users/nigar/Desktop/MultfilmsMvcFinalProject/MultfilmsMvc/Repository/Repository.csproj": {
+              "projectPath": "/Users/nigar/Desktop/MultfilmsMvcFinalProject/MultfilmsMvc/Repository/Repository.csproj"
             }
           }
         }

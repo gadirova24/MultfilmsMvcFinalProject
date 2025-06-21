@@ -610,12 +610,16 @@ body #cartoon-slider .cartoon-carousel .item .slider-item .slider-context .item-
   opacity: 0.6;
   font-size: 16px;
 }
-body #cartoon-slider .cartoon-carousel .item .slider-item .slider-context .item-text {
-  margin-top: 3%;
-  color: #fff;
-  font-size: 15px;
-  opacity: 0.6;
-}
+    body #cartoon-slider .cartoon-carousel .item .slider-item .slider-context .item-text {
+        margin-top: 3%;
+        color: #fff;
+        font-size: 15px;
+        opacity: 0.6;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 5;
+    }
 body #cartoon-slider .cartoon-carousel .item .slider-item .slider-context .item-slider-btn {
   height: 50px;
   margin-top: 5%;

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nigar/Desktop/FinalProject/MultfilmsMvc/Repository/Repository.csproj": {}
+    "/Users/nigar/Desktop/MultfilmsMvcFinalProject/MultfilmsMvc/Repository/Repository.csproj": {}
   },
   "projects": {
-    "/Users/nigar/Desktop/FinalProject/MultfilmsMvc/Domain/Domain.csproj": {
+    "/Users/nigar/Desktop/MultfilmsMvcFinalProject/MultfilmsMvc/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nigar/Desktop/FinalProject/MultfilmsMvc/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/nigar/Desktop/MultfilmsMvcFinalProject/MultfilmsMvc/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/nigar/Desktop/FinalProject/MultfilmsMvc/Domain/Domain.csproj",
+        "projectPath": "/Users/nigar/Desktop/MultfilmsMvcFinalProject/MultfilmsMvc/Domain/Domain.csproj",
         "packagesPath": "/Users/nigar/.nuget/packages/",
-        "outputPath": "/Users/nigar/Desktop/FinalProject/MultfilmsMvc/Domain/obj/",
+        "outputPath": "/Users/nigar/Desktop/MultfilmsMvcFinalProject/MultfilmsMvc/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nigar/.nuget/NuGet/NuGet.Config"
@@ -77,14 +77,14 @@
         }
       }
     },
-    "/Users/nigar/Desktop/FinalProject/MultfilmsMvc/Repository/Repository.csproj": {
+    "/Users/nigar/Desktop/MultfilmsMvcFinalProject/MultfilmsMvc/Repository/Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nigar/Desktop/FinalProject/MultfilmsMvc/Repository/Repository.csproj",
+        "projectUniqueName": "/Users/nigar/Desktop/MultfilmsMvcFinalProject/MultfilmsMvc/Repository/Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "/Users/nigar/Desktop/FinalProject/MultfilmsMvc/Repository/Repository.csproj",
+        "projectPath": "/Users/nigar/Desktop/MultfilmsMvcFinalProject/MultfilmsMvc/Repository/Repository.csproj",
         "packagesPath": "/Users/nigar/.nuget/packages/",
-        "outputPath": "/Users/nigar/Desktop/FinalProject/MultfilmsMvc/Repository/obj/",
+        "outputPath": "/Users/nigar/Desktop/MultfilmsMvcFinalProject/MultfilmsMvc/Repository/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nigar/.nuget/NuGet/NuGet.Config"
@@ -99,8 +99,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/nigar/Desktop/FinalProject/MultfilmsMvc/Domain/Domain.csproj": {
-                "projectPath": "/Users/nigar/Desktop/FinalProject/MultfilmsMvc/Domain/Domain.csproj"
+              "/Users/nigar/Desktop/MultfilmsMvcFinalProject/MultfilmsMvc/Domain/Domain.csproj": {
+                "projectPath": "/Users/nigar/Desktop/MultfilmsMvcFinalProject/MultfilmsMvc/Domain/Domain.csproj"
               }
             }
           }

@@ -573,7 +573,6 @@ body {
             .cartoon-item {
                 width: 100%;
                 margin-bottom: 9%;
-                // overflow: hidden;
 
                 .cartoon-image {
                     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -721,7 +720,6 @@ body {
                         left: 5%;
                         z-index: 10;
                         padding: 40px;
-                        // background-color: white;
                         position: absolute;
 
                         .item-title {
@@ -764,6 +762,10 @@ body {
                             color: #fff;
                             font-size: 15px;
                             opacity: 0.6;
+                            overflow: hidden;
+                            display: -webkit-box;
+                            -webkit-box-orient: vertical;
+                            -webkit-line-clamp: 5;
                         }
 
                         .item-slider-btn {

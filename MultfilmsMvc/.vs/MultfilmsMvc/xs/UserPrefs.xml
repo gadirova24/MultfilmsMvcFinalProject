@@ -1,35 +1,25 @@
 ﻿<Properties NuGet.AddPackagesDialog.IncludePrerelease="True" StartupConfiguration="{8E59F1CD-9246-45FF-9D14-A1154AB2287F}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.MultfilmsMvc PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MultfilmsMvc/wwwroot/assets/css/home.scss">
+    <Files>
+      <File FileName="MultfilmsMvc/wwwroot/assets/css/home.scss" Line="768" Column="51" />
+      <File FileName="MultfilmsMvc/wwwroot/assets/css/home.css" Line="618" Column="7" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MultfilmsMvc">
             <Node name="MultfilmsMvc">
-              <Node name="Areas" expanded="True">
-                <Node name="Admin" expanded="True">
-                  <Node name="Controllers" expanded="True" />
-                </Node>
-              </Node>
-              <Node name="logs" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Cartoon" expanded="True" />
-                <Node name="Collection" expanded="True" />
-              </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="assets" expanded="True">
-                  <Node name="css" expanded="True">
-                    <Node name="cartoondetail.scss" expanded="True" />
-                    <Node name="login.scss" expanded="True">
-                      <Node name="login.css" expanded="True" />
-                    </Node>
-                    <Node name="register.scss" selected="True" />
+              <Node name="wwwroot">
+                <Node name="assets">
+                  <Node name="css">
+                    <Node name="home.scss" selected="True" />
                   </Node>
                 </Node>
               </Node>
             </Node>
-            <Node name="Repository" expanded="True">
+            <Node name="Repository">
               <Node name="Repositories" expanded="True">
                 <Node name="Interfaces" expanded="True" />
               </Node>
@@ -42,7 +32,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/nigar/Desktop/FinalProject/MultfilmsMvc/Service/Services/CartoonServicde.cs" relfile="Service/Services/CartoonServicde.cs" line="1" column="1" />
+      <Breakpoint file="/Users/nigar/Desktop/MultfilmsMvcFinalProject/MultfilmsMvc/Service/Services/CartoonServicde.cs" relfile="Service/Services/CartoonServicde.cs" line="1" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

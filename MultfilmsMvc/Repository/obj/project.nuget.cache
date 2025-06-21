@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6OBDnxjstOx25RqUt8NkF5yq6yao9J4zmCwdJVnhXC4biZ0TlbNwmiHCo8klOc6bIgyeohO9K1Sdv8yYDZwA9w==",
+  "dgSpecHash": "LHNV3VMqD2ZMdH9odTnZCiOiJiTW4ZUPyWbrEwKYStKX2dYzgdW+U3begTvsg09jYBGkzNNvZDEnGZCd69gAtw==",
   "success": true,
-  "projectFilePath": "/Users/nigar/Desktop/FinalProject/MultfilmsMvc/Repository/Repository.csproj",
+  "projectFilePath": "/Users/nigar/Desktop/MultfilmsMvcFinalProject/MultfilmsMvc/Repository/Repository.csproj",
   "expectedPackageFiles": [
     "/Users/nigar/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/nigar/.nuget/packages/microsoft.aspnetcore.cryptography.internal/6.0.35/microsoft.aspnetcore.cryptography.internal.6.0.35.nupkg.sha512",
