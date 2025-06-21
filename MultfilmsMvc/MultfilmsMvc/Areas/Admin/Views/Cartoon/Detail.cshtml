@@ -1,0 +1,44 @@
+﻿@model AdminCartoonDetailVM
+<div class="container-fluid pt-5" style="width:60%">
+
+    <table class="table table-bordered mt-5">
+        <thead>
+            <tr>
+                <th> Image </th>
+                <th> Name </th>
+                <th> Plot </th>
+                <th> Year </th>
+                <th> PlayerUrl </th>
+                <th> CategoryName </th>
+                <th> StudioNames </th>
+                <th> CollectionNames </th>
+                <th> CountryNames </th>
+                <th> GenreNames </th>
+                <th> DirectorNames </th>
+                <th> ActorNames </th>
+                <th> AverageRating </th>
+            </tr>
+        </thead>
+        <tbody>
+        
+            <tr>
+                <td> <img src="~/assets/images/cartoons/@Model.Image" style="width:100px ;height:180px"></td>
+                <td>@Model.Name</td>
+                <td>@Model.Plot</td>
+                <td>@Model.Year</td>
+                <td>@Model.PlayerUrl</td>
+                <td>@Model.CategoryName</td>
+                <td>@string.Join(", ", Model.StudioNames)</td>
+                <td>@string.Join(", ", Model.CollectionNames)</td>
+                <td>@string.Join(", ", Model.CountryNames)</td>
+                <td>@string.Join(", ", Model.GenreNames)</td>
+                <td>@string.Join(", ", Model.DirectorNames)</td>
+                <td>@string.Join(", ", Model.ActorNames)</td>
+                <td>@Model.AverageRating.ToString("0.0")</td>
+
+            </tr>
+     
+
+        </tbody>
+    </table>
+</div>
