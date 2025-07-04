@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mktzDd3T75fIim1nZq0wfRJ3WlRS7QHUW6RbsmfMohz1XZEx2o7qEZCynrDQCvSx/fMbDwWG7W8nj3CqXKNcrw==",
+  "dgSpecHash": "YnOh1LU2ZeZlEpvm4hZskQtaxc/4HWmKRBJ/nkWKrlwKoUFCwuaGzU2ncX5hIXPuqru+5yjL5y2xJjd2WhmbUg==",
   "success": true,
-  "projectFilePath": "/Users/nigar/Desktop/MultfilmsMvcFinalProject/MultfilmsMvc/Service/Service.csproj",
+  "projectFilePath": "/Users/nigar/Desktop/MvcFinalprojectMultfilms/MultfilmsMvcFinalProject/MultfilmsMvc/Service/Service.csproj",
   "expectedPackageFiles": [
     "/Users/nigar/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/nigar/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

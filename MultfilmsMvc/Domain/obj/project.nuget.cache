@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Um2yI/FNQf7V9z27FiL356MQfcOqnGfmweWop81wxYQsZ16V27JXcQgVvZXZyqbuXelKi4sOIFBCWQtE+v2voA==",
+  "dgSpecHash": "gkYVsBMuATDgr3IK9Msf7Cfd9o+icKvYFkXD4bd9CnMTxvaYJvld6tRUa9rHng+GSb+GvTyGiUV18uEEOlFSYA==",
   "success": true,
-  "projectFilePath": "/Users/nigar/Desktop/MultfilmsMvcFinalProject/MultfilmsMvc/Domain/Domain.csproj",
+  "projectFilePath": "/Users/nigar/Desktop/MvcFinalprojectMultfilms/MultfilmsMvcFinalProject/MultfilmsMvc/Domain/Domain.csproj",
   "expectedPackageFiles": [
     "/Users/nigar/.nuget/packages/microsoft.aspnetcore.cryptography.internal/6.0.35/microsoft.aspnetcore.cryptography.internal.6.0.35.nupkg.sha512",
     "/Users/nigar/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/6.0.35/microsoft.aspnetcore.cryptography.keyderivation.6.0.35.nupkg.sha512",
